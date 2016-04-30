@@ -1,0 +1,2 @@
+# IMYAD
+eLegal Advocate Script
